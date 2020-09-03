@@ -1,7 +1,7 @@
 # Hey there! 👋
 #### Welcome to my GitHub profile!
 
-I'm Douglas, a self-taught developer.
+I'm Douglas and I'm a software developer.
 
 ### Bio
 
