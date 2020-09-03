@@ -1,7 +1,7 @@
 # Hey there! 👋
 #### Welcome to my GitHub profile!
 
-I'm Douglas, Codele's main developer.
+I'm Douglas, a self-taught developer.
 
 ### Bio
 
