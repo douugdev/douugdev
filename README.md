@@ -1,7 +1,7 @@
 # Hey there! 👋
 #### Welcome to my GitHub profile!
 
-I'm Douglas and I'm a software developer.
+I'm a software developer!
 
 ### Bio
 
