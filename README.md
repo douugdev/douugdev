@@ -1,11 +1,17 @@
-# Hello!
+# ![hello](https://i.ibb.co/MRhJwnC/ezgif-com-resize-2.gif) Hey there, I'm Douglas Silva!
 #### Welcome to my GitHub profile!
 
-I'm a software developer!
+I'm a software developer, graphic designer and video editor!
 
 ### Bio
 
-My name is Douglas Silva, also known as douugbr online, I'm 17 y/o and I'm a self-taught dev. I started coding not long ago but always wanted to, you know? Nowadays I'm full-stack python dev currently and also a graphic designer (so I got a decent UI/UX knowledge even though I never really studied any of it). I still have a passion for game design and sure will learn it at the future.
+My name is Douglas "douugbr" Silva, I'm 17 y/o. I'm a freelancer full-stack python dev currently, but also got some jobs with graphic design for social media, video animations and basic compositing (so I got a decent UI/UX knowledge even though I never really studied any of it). I still have a passion for game design and sure will learn it at the future.
+
+- 🎓 Education: Electronic Engeneering 3-years Diploma (2021).
+- 😄 Pronouns: he/him
+- 🔭 I’m currently working on a project called Overclocked (Mobile app for build computers)
+- 🌱 I’m currently learning app development with React Native
+- ⚡ Fun fact: I love playing musical instruments! 
 
 ### Contact info
 
@@ -18,12 +24,52 @@ My name is Douglas Silva, also known as douugbr online, I'm 17 y/o and I'm a sel
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+
 - ⚡ Fun fact: ...
 -->
+
+### 🧰  Toolbox
+
+<table>
+<tr><th>Coding</th><th>Graphic Design</th><th>Video Editing</th></tr>
+<tr><td>
+  
+</br>
+
+- Python
+- Django & Flask
+- C, C++, C#   
+- CSS3
+- HTML5
+- Git & Github
+
+</br>
+
+</td><td>
+  
+- Figma
+- Adobe Illustrator
+- Adobe Photoshop
+- UI
+- UX
+
+</td><td>
+  
+- DaVinci Resolve
+- Adobe Premiere Pro
+- Adobe After Effects
+- Color Grading
+- VFX
+
+</td>
+
+</tr> 
+</table>
+
+
+</br>
+
