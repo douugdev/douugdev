@@ -9,7 +9,7 @@ My name is Douglas "douugbr" Silva, I'm 17 y/o. I'm a freelancer full-stack pyth
 
 - 🎓 Education: Electronic Engeneering 3-years Diploma (2021).
 - 😄 Pronouns: he/him
-- 🔭 I’m currently working on a project called Overclocked (Mobile app for build computers)
+- 🔭 I’m currently working on a project called Overclocked (Mobile app for building computers), also working on a tournament management webapp.
 - 🌱 I’m currently learning app development with React Native
 - ⚡ Fun fact: I love playing musical instruments! 
 
