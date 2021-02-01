@@ -7,7 +7,7 @@ I'm a software developer, graphic designer and video editor!
 
 My name is Douglas "douugbr" Silva, I'm 17 y/o. I'm a freelancer full-stack python dev currently, but also got some jobs with graphic design for social media, video animations and basic compositing (so I got a decent UI/UX knowledge even though I never really studied any of it). I still have a passion for game design and sure will learn it at the future.
 
-- 🎓 Education: Electronic Engeneering 3-years Diploma (2021).
+- 🎓 Education: Electronics Engeneering 3-year Diploma, class of 2020.
 - 😄 Pronouns: he/him
 - 🔭 I’m currently working on a project called Overclocked (Mobile app for building computers), also working on a tournament management webapp.
 - 🌱 I’m currently learning app development with React Native
