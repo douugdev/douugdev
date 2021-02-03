@@ -1,4 +1,4 @@
-# ![hello](https://i.ibb.co/MRhJwnC/ezgif-com-resize-2.gif) Hey there, I'm Douglas Silva!
+# 👋 Hey there, I'm Douglas Silva!
 #### Welcome to my GitHub profile!
 
 I'm a software developer, graphic designer and video editor!
