@@ -42,7 +42,8 @@ Here are some ideas to get you started:
 
 - Python
 - Django & Flask
-- C, C++, C#   
+- Javscript & Typescript
+- ReactJS & React Native
 - CSS3
 - HTML5
 - Git & Github
