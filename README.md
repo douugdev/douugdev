@@ -5,32 +5,19 @@ I'm a software developer, graphic designer and video editor!
 
 ### Bio
 
-My name is Douglas "douugbr" Silva, I'm 17 y/o. I'm a freelancer full-stack python dev currently, but also got some jobs with graphic design for social media, video animations and basic compositing (so I got a decent UI/UX knowledge even though I never really studied any of it). I still have a passion for game design and sure will learn it at the future.
+My name is Douglas "douugbr" Silva, I'm 18 y/o. I'm a mobile front-end developer.
 
-- 🎓 Education: Electronics Engeneering 3-year Diploma, class of 2020.
+- 🎓 Education: Electronics Engeneering 3-year Diploma, class of 2020. Currently CompSci at UNIP.
 - 😄 Pronouns: he/him
-- 🔭 I’m currently working on a project called Overclocked (Mobile app for building computers), also working on a tournament management webapp.
-- 🌱 I’m currently learning app development with React Native
+- 🔭 I’m currently working on a project called Overclocked (Mobile app for building computers), also working on a tournament management webapp and a smart home system.
+- 🌱 I’m currently learning app development with React Native.
 - ⚡ Fun fact: I love playing musical instruments! 
 
 ### Contact info
 
 [LinkedIn](https://www.linkedin.com/in/douugbr/ "LinkedIn")
 
-[E-mail](mailto:douugbr@gmail.com "Me mande um e-mail!")
-
-<!--
-**douugbr/douugbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-
-- ⚡ Fun fact: ...
--->
+[E-mail](mailto:douugbr@gmail.com "Me mande um e-mail!")-
 
 ### 🧰  Toolbox
 
