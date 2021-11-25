@@ -9,8 +9,7 @@ My name is Douglas "douugbr" Silva, I'm 18 y/o. I'm a mobile front-end developer
 
 - 🎓 Education: Electronics Engeneering 3-year Diploma, class of 2020. Currently CompSci at UNIP.
 - 😄 Pronouns: he/him
-- 🔭 I’m currently working on a project called Overclocked (Mobile app for building computers), also working on a tournament management webapp and a smart home system.
-- 🌱 I’m currently learning app development with React Native.
+- 🌱 I’m currently learning WebGL development with BabylonJS!
 - ⚡ Fun fact: I love playing musical instruments! 
 
 ### Contact info
