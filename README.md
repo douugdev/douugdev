@@ -16,7 +16,7 @@ My name is Douglas "douugbr" Silva, I'm 18 y/o. I'm a mobile front-end developer
 
 [LinkedIn](https://www.linkedin.com/in/douugbr/ "LinkedIn")
 
-[E-mail](mailto:douugbr@gmail.com "Me mande um e-mail!")-
+[E-mail](mailto:douugbr@gmail.com "Me mande um e-mail!")
 
 ### 🧰  Toolbox
 
