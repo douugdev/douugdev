@@ -1,62 +1,10 @@
 # 👋 Hey there, I'm Douglas Silva!
-#### Welcome to my GitHub profile!
 
-I'm a software developer, graphic designer and video editor!
+I'm a software developer and UX designer, I do stuff for the web, mobile, and even embedded sometimes!
 
-### Bio
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=douugbr&show_icons=true&theme=merko)
 
-My name is Douglas "douugbr" Silva, I'm 18 y/o. I'm a mobile front-end developer.
+### Hit me up
 
-- 🎓 Education: Electronics Engeneering 3-year Diploma, class of 2020. Currently CompSci at UNIP.
-- 😄 Pronouns: he/him
-- 🌱 I’m currently learning WebGL development with BabylonJS!
-- ⚡ Fun fact: I love playing musical instruments! 
-
-### Contact info
-
-[LinkedIn](https://www.linkedin.com/in/douugbr/ "LinkedIn")
-
-[E-mail](mailto:douugbr@gmail.com "Me mande um e-mail!")-
-
-### 🧰  Toolbox
-
-<table>
-<tr><th>Coding</th><th>Graphic Design</th><th>Video Editing</th></tr>
-<tr><td>
-  
-</br>
-
-- Python
-- Django & Flask
-- Javscript & Typescript
-- ReactJS & React Native
-- CSS3
-- HTML5
-- Git & Github
-
-</br>
-
-</td><td>
-  
-- Figma
-- Adobe Illustrator
-- Adobe Photoshop
-- UI
-- UX
-
-</td><td>
-  
-- DaVinci Resolve
-- Adobe Premiere Pro
-- Adobe After Effects
-- Color Grading
-- VFX
-
-</td>
-
-</tr> 
-</table>
-
-
-</br>
+[LinkedIn](https://www.linkedin.com/in/douugbr/ "LinkedIn") | [E-mail](mailto:douugbr@gmail.com "Me mande um e-mail!") |
 
