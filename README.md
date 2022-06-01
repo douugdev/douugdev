@@ -6,5 +6,5 @@ I'm a software developer and UX designer, I do stuff for the web, mobile, and ev
 
 ### Hit me up
 
-[LinkedIn](https://www.linkedin.com/in/douugbr/ "LinkedIn") | [E-mail](mailto:douugbr@gmail.com "Me mande um e-mail!") |
+[LinkedIn](https://www.linkedin.com/in/douugbr/) | [E-mail](mailto:douugbr@gmail.com)
 
