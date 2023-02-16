@@ -11,5 +11,5 @@
 
 
 
-### 🤙 Hit me up @ [LinkedIn](https://www.linkedin.com/in/douugbr/) or through [Email](mailto:douugbr@gmail.com)
+### 🤙 Hit me up @ [LinkedIn](https://www.linkedin.com/in/douugdev/) or through [Email](mailto:douugbr@gmail.com)
 
