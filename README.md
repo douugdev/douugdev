@@ -9,7 +9,7 @@
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=douugdev&show_icons=true&theme=merko)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=douugdev&layout=compact)](https://github.com/douugdev/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=douugdev&layout=compact&hide=css,html)](https://github.com/douugdev/)
 
 ### 🤙 Hit me up @ [LinkedIn](https://www.linkedin.com/in/douugdev/) or through [Email](mailto:douugbr@gmail.com)
 
