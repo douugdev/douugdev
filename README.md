@@ -1,7 +1,7 @@
 
 # 👋 Hey there, \<Douglas /\> here
 
- I'm a software developer and UX designer, I do stuff for the web, mobile, desktop, and even embedded sometimes! I'm really passionate about functional/declarative programming, so I'm currently working with React and React Native.
+ I'm a software developer and UX designer, I do stuff for the web, mobile, desktop, and even embedded sometimes! I'm really passionate about functional/declarative programming, so I'm currently working with React and React Native and learning Haskell in my free time.
 
 <br />
 <br />
